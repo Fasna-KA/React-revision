@@ -226,6 +226,5 @@ repository: It contain the information about the type and url of the repository 
 bugs: The url and email where the bugs in the application should be reported are mentioned in this segment. 
 
 
-Note: Here, “body-parser”, “express”, “express-validator”, “mongoose” and “nodemon” are the modules/packages installed using npm (Node Package Manager). 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
