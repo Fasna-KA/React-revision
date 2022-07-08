@@ -20,6 +20,7 @@ const Reducer = () => {
   const [count, dispatch] = useReducer(reducer, initialState);
   return (
     <div>
+      <h1>UseReducer</h1>
       <h2>{count}</h2>
       <button onClick={() => dispatch("add")}>
         add
