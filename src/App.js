@@ -19,6 +19,8 @@ import Memo from './day4/UseMemo'
 import Context from './day4/UseContext/Context';
 
 import Child from './day5/HOC/Child'
+import CleanUp from './day5/Cleanup'
+
 
 function App() {
   return (
@@ -47,6 +49,8 @@ function App() {
 //   <LifeCycle/>
 
 <Child/>
+  <CleanUp/>
+
 
 
     </div>
