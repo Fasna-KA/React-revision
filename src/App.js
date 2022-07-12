@@ -13,14 +13,15 @@ import './App.css';
 // import State from './day3/UseState';
 // import EffectHook from './day3/UseEffect';
 
-import LifeCycle from './day4/LifeCycle';
-import Ref from './day4/UseRef'
-import Memo from './day4/UseMemo'
-import Context from './day4/UseContext/Context';
+// import LifeCycle from './day4/LifeCycle';
+// import Ref from './day4/UseRef'
+// import Memo from './day4/UseMemo'
+// import Context from './day4/UseContext/Context';
 
-import Child from './day5/HOC/Child'
-import CleanUp from './day5/Cleanup'
+// import Child from './day5/HOC/Child'
+// import CleanUp from './day5/Cleanup'
 
+import Event from './day6/Event'
 
 function App() {
   return (
@@ -48,9 +49,10 @@ function App() {
 //   <Context/>
 //   <LifeCycle/>
 
-<Child/>
-  <CleanUp/>
+//   <Child/>
+//   <CleanUp/>
 
+  <Event/>
 
 
     </div>
